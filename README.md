@@ -1,4 +1,4 @@
-**Arduino_Code_for_Spike_Encoding** (AUTHOR: DR. C. JIANG)
+**Arduino_Code_for_Spike_Encoding** (AUTHOR: Dr. C. JIANG)
 
 Functionality of this code:
 
